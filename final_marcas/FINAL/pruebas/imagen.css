@@ -1,0 +1,32 @@
+html, body { /*aqui significamos el espacio de la pagina, con el 100 lo abarcamos todo, sin margenes, cazamos todo el espacio*/
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    display: flex; /*el body se convierte en un contenedor flex*/
+    justify-content: center; /*centra el contenido horizontalmente*/
+    align-items: center; /*centra el contenido verticalmente*/
+  }
+  
+
+.contenedor /*esto es lo que envuelve la imagen, y le estamos dicendo que al cento*/
+{
+    text-align: center;
+}
+
+.contenedor img { /*para referirnos al tamaño de la imagen lo hacemos asi */
+
+   
+    width: 200px; /* esto es para ajustar el tamaño de la imagen*/
+    height: auto;/* esto es altura ajustada automaticamente para mantener la proporcion*/
+   margin: 10px; /*esto es para el margen entre imagenes*/
+
+
+
+ 
+
+
+
+}
+

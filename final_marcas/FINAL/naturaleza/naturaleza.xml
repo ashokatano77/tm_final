@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="naturaleza.xsl" type="text/xsl"?>
+<naturaleza>
+  
+  <logo>
+	
+		<img src="/FINAL/img_logo/LOGOMONO.png" alt="Imagen pequeña"/>
+
+	</logo>
+  
+  
+  
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N1.jpeg" alt="Imagen1" />
+      <titulo>Maggi despierta</titulo>
+    </image>
+  </post>
+
+   <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N2.jpeg" alt="Imagen2" />
+      <titulo>No plastic</titulo>
+    </image>
+  </post>
+    
+    <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N3.jpeg" alt="Imagen3" />
+      <titulo>Pinza</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N4.jpeg" alt="Imagen4" />
+      <titulo>Ola poke</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N5.jpeg" alt="Imagen5" />
+      <titulo>Desenfocado</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N6.jpeg" alt="Imagen6" />
+      <titulo>Pacífico</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N7.jpeg" alt="Imagen7" />
+      <titulo>Alice</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N8.jpeg" alt="Imagen8" />
+      <titulo>Isla bonita</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N9.jpeg" alt="Imagen9" />
+      <titulo>Misterius</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N12.jpeg" alt="Imagen10" />
+      <titulo>Bird</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N11.jpeg" alt="Imagen11" />
+      <titulo>Soft</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N13.jpeg" alt="Imagen12" />
+      <titulo>God Yu Takem</titulo>
+    </image>
+  </post>
+
+
+</naturaleza>

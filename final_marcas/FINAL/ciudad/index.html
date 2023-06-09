@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>prints</title>
+    <script>
+      // Extract the query parameter from the URL
+      var urlParams = new URLSearchParams(window.location.search);
+      var paramValue = urlParams.get("param");
+
+      // Load the XML and XSLT documents
+      var xml = new XMLHttpRequest();
+      xml.open("GET", "ciudad.xml", false);
+      xml.send();
+
+      var xslt = new XMLHttpRequest();
+      xslt.open("GET", "ciudad.xsl", false);
+      xslt.send();
+
+      // Create an XSLT processor and import the XSLT stylesheet
+      var processor = new XSLTProcessor();
+      processor.importStylesheet(xslt.responseXML);
+
+      // Set the query parameter as an XSLT parameter
+      processor.setParameter(null, "param", paramValue);
+
+      // Transform the XML with XSLT
+      var result = processor.transformToDocument(xml.responseXML);
+
+      // Serialize the transformed result to a string
+      var transformedXmlString = new XMLSerializer().serializeToString(result);
+
+      // Display the transformed content in the HTML body
+      window.onload = function () {
+        var resultElement = document.getElementById("result");
+        resultElement.innerHTML = transformedXmlString;
+      };
+    </script>
+  </head>
+  <body>
+    <div id="result"></div>
+  </body>
+</html>

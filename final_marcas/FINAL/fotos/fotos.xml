@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="fotos.xsl" type="text/xsl"?>
+<ciudad>
+  
+  <logo>
+	
+		<img src="/FINAL/img_logo/LOGOMONO.png" alt="Imagen pequeña"/>
+
+	</logo>
+  
+  <cabecera>C I U D A D</cabecera>
+  <cabecera>no</cabecera>
+  
+  <post>
+    <image>
+      <categoria>ciudad</categoria>
+      <img src="/FINAL/img_ciudad/C1.jpeg" alt="Imagen1" />
+      <titulo>Pizza</titulo>
+    </image>
+  </post>
+
+   <post>
+    <image>
+     <categoria>persona</categoria>
+      <img src="/FINAL/img_ciudad/C2.jpeg" alt="Imagen2" />
+      <titulo>She</titulo>
+    </image>
+  </post>
+    
+    <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C3.jpeg" alt="Imagen3" />
+      <titulo>Blue</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C4.jpeg" alt="Imagen4" />
+      <titulo>Effel</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C5.jpeg" alt="Imagen5" />
+      <titulo>Memories</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C6.jpeg" alt="Imagen6" />
+      <titulo>Thoughts</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C7.jpeg" alt="Imagen7" />
+      <titulo>Cold</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C8.jpeg" alt="Imagen8" />
+      <titulo>Expecting</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C9.jpeg" alt="Imagen9" />
+      <titulo>Old</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+    <categoria>ciudad</categoria>
+      <img src="/FINAL/img_ciudad/C10.jpeg" alt="Imagen10" />
+      <titulo>Hope</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C11.jpeg" alt="Imagen11" />
+      <titulo>Where the wild things are</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C12.jpeg" alt="Imagen12" />
+      <titulo>Metro</titulo>
+    </image>
+  </post>
+
+
+  
+  <post>
+    <image>
+    <categoria>naturaleza</categoria>
+      <img src="/FINAL/img_naturaleza/N1.jpeg" alt="Imagen1" />
+      <titulo>Maggi despierta</titulo>
+    </image>
+  </post>
+
+   <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N2.jpeg" alt="Imagen2" />
+      <titulo>No plastic</titulo>
+    </image>
+  </post>
+    
+    <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N3.jpeg" alt="Imagen3" />
+      <titulo>Pinza</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N4.jpeg" alt="Imagen4" />
+      <titulo>Ola poke</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N5.jpeg" alt="Imagen5" />
+      <titulo>Desenfocado</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N6.jpeg" alt="Imagen6" />
+      <titulo>Pacífico</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N7.jpeg" alt="Imagen7" />
+      <titulo>Alice</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N8.jpeg" alt="Imagen8" />
+      <titulo>Isla bonita</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N9.jpeg" alt="Imagen9" />
+      <titulo>Misterius</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N12.jpeg" alt="Imagen10" />
+      <titulo>Bird</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N11.jpeg" alt="Imagen11" />
+      <titulo>Soft</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_naturaleza/N13.jpeg" alt="Imagen12" />
+      <titulo>God Yu Takem</titulo>
+    </image>
+  </post>
+
+
+</ciudad>

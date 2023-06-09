@@ -1,0 +1,74 @@
+
+html, body { /*aqui significamos el espacio de la pagina, con el 100 lo abarcamos todo, sin margenes, cazamos todo el espacio*/
+    height: 100%;
+    margin: 0;
+  }
+
+body
+{
+  background-image: url('/FINAL/contacto/DEMONIOI.png'), url('/FINAL/contacto/DEMONIOD.png');
+  background-position: left top, right top;
+   background-repeat: no-repeat, no-repeat;
+   background-size: contain, contain; /*Para que las imagenes salgan completas*/
+  
+}
+
+.logo img
+{
+    width: 100px;
+    height: auto;
+    margin-top: 5%;
+    
+}
+
+.texto
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+
+
+}
+
+.redes
+{
+    align-items: center;
+}
+
+.formas
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+
+    align-items: center;
+}
+
+.mapa
+{
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: grey;
+}
+
+.redes
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+}
+.redes img
+{
+  
+    width: 70px;
+    height: auto;
+    margin-left: 50%;
+    margin-right: 50%;
+    
+}
+
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+
+  <xs:element name="naturaleza">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="post" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="src" type="xs:string"/>
+                    <xs:element name="img" type="xs:string"/>
+                    <xs:element name="alt" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="description" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
+<image>
+      <img src="/FINAL/img_ciudad/C2.jpeg" alt="Imagen1" />
+    </image>
+      </post>
+    <image>
+      <img src="/FINAL/img_ciudad/C3.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C4.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C5.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C6.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C7.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C8.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C9.jpeg" alt="Imagen1" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C10.jpeg" alt="Imagen10" />
+    </image>
+    <image>
+      <img src="/FINAL/img_ciudad/C11.jpeg" alt="Imagen11" />
+    <image>
+      <img src="/FINAL/img_ciudad/C12.jpeg" alt="Imagen12" />
+    </image>
+    </image>

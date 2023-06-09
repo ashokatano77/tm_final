@@ -1,0 +1,53 @@
+.ciudad {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .cabecera {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:gainsboro
+    
+  }
+  
+  .feed {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .post {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color:grey ;
+  }
+  
+  .post img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  .post p {
+    margin-top: 10px;
+  }
+
+  .corner-image {
+    position: absolute;
+    top: 10px;
+    right: 0 px;
+    width: 10cm ;
+    max-height: 25px;
+
+  }
+  .corner-image img {
+    width: 80px; /* Ajusta el tamaño de la imagen pequeña según tus necesidades */
+    height: auto;
+  }
+  
+ 

@@ -1,0 +1,66 @@
+ 
+html, body { /*aqui significamos el espacio de la pagina, con el 100 lo abarcamos todo, sin margenes, cazamos todo el espacio*/
+    height: 100%;
+    margin: 0;
+  }
+
+body 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.logo
+{
+   
+
+
+}
+
+
+
+.logo img
+{
+    width: 400px;
+    height: auto;
+    
+    
+    
+
+}
+
+.formas{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+
+}
+
+.caja{
+    border: 0pt;
+    
+    background-color: rgb(227, 231, 237);
+}
+
+.boton
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: grey;
+    width: 50;
+    height: auto;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+.registro 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: grey;
+    cursor: pointer;
+
+}

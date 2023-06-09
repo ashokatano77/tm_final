@@ -1,0 +1,51 @@
+body {
+    background-image: url('DEMON.png') ;
+    background-repeat: no-repeat;
+    background-size:38em;
+    background-position: center;
+    color: grey
+  }
+
+  html, body {
+    height: 105%;
+    margin: 0;
+
+    
+  }
+
+  .container {
+    position: relative;
+  }
+  
+  .corner-image {
+    position: absolute;
+    width: 310px; /* Ajusta el tamaño de las imágenes según tus necesidades */
+    height: auto; /* Ajusta el tamaño de las imágenes según tus necesidades */
+  }
+  
+  .top-right {
+    top: 0;
+    right: 0;
+  }
+  .top-left {
+    top: 0;
+    left: 0;
+  }
+  
+  .bottom-right {
+    bottom: 0;
+    right: 0;
+  }
+  
+  .bottom-left {
+    bottom: 0;
+    left: 0;
+  }
+
+  .nav {
+    color: gray;
+  }
+
+  #nav {
+    color: grey;
+  }

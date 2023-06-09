@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="persona.xsl" type="text/xsl"?>
+<ciudad>
+  
+  <logo>
+	
+		<img src="/FINAL/img_logo/LOGOMONO.png" alt="Imagen pequeña"/>
+
+	</logo>
+  
+  
+  
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P1.jpeg" alt="Imagen1" />
+      <titulo>Coche</titulo>
+    </image>
+  </post>
+
+   <post>
+    <image>
+      <img src="/FINAL/img_persona/P2.jpeg" alt="Imagen2" />
+      <titulo>Montaña</titulo>
+    </image>
+  </post>
+    
+    <post>
+    <image>
+      <img src="/FINAL/img_persona/P3.jpeg" alt="Imagen3" />
+      <titulo>Tienda</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P4.jpeg" alt="Imagen4" />
+      <titulo>Cigarro</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P5.jpeg" alt="Imagen5" />
+      <titulo>Neytiri</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P6.jpeg" alt="Imagen6" />
+      <titulo>Gris</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P7.jpeg" alt="Imagen7" />
+      <titulo>Cold</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P8.jpeg" alt="Imagen8" />
+      <titulo>Piel</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P9.jpeg" alt="Imagen9" />
+      <titulo>Eye liner</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+    <categoria>ciudad</categoria>
+      <img src="/FINAL/img_persona/P10.jpeg" alt="Imagen10" />
+      <titulo>Humo</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P11.jpeg" alt="Imagen11" />
+      <titulo>Hermana</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_persona/P12.jpeg" alt="Imagen12" />
+      <titulo>Angel</titulo>
+    </image>
+  </post>
+
+
+</ciudad>

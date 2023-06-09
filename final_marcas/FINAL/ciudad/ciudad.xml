@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ciudad.xsl" type="text/xsl"?>
+<ciudad>
+  
+  <logo>
+	
+		<img src="/FINAL/img_logo/LOGOMONO.png" alt="Imagen pequeña"/>
+
+	</logo>
+  
+  
+  
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C1.jpeg" alt="Imagen1" />
+      <titulo>Pizza</titulo>
+    </image>
+  </post>
+
+   <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C2.jpeg" alt="Imagen2" />
+      <titulo>She</titulo>
+    </image>
+  </post>
+    
+    <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C3.jpeg" alt="Imagen3" />
+      <titulo>Blue</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C4.jpeg" alt="Imagen4" />
+      <titulo>Effel</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C5.jpeg" alt="Imagen5" />
+      <titulo>Memories</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C6.jpeg" alt="Imagen6" />
+      <titulo>Thoughts</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C7.jpeg" alt="Imagen7" />
+      <titulo>Cold</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C8.jpeg" alt="Imagen8" />
+      <titulo>Expecting</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C9.jpeg" alt="Imagen9" />
+      <titulo>Old</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+    <categoria>ciudad</categoria>
+      <img src="/FINAL/img_ciudad/C10.jpeg" alt="Imagen10" />
+      <titulo>Hope</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C11.jpeg" alt="Imagen11" />
+      <titulo>Where the wild things are</titulo>
+    </image>
+  </post>
+
+  <post>
+    <image>
+      <img src="/FINAL/img_ciudad/C12.jpeg" alt="Imagen12" />
+      <titulo>Metro</titulo>
+    </image>
+  </post>
+
+
+</ciudad>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>XSLT Transformation Example</title>
+    <script>
+      // Extract the query parameter from the URL
+      var urlParams = new URLSearchParams(window.location.search);
+      var paramValue = urlParams.get("prints");  //ADAPTAR NOMBRES
+
+      // Load the XML and XSLT documents
+      var xml = new XMLHttpRequest();
+      xml.open("GET", "fotos.xml", false); //ADAPTAR NOMBRES
+      xml.send();
+
+      var xslt = new XMLHttpRequest();
+      xslt.open("GET", "fotos.xsl", false); //ADAPTAR NOMBRES
+      xslt.send();
+
+      // Create an XSLT processor and import the XSLT stylesheet
+      var processor = new XSLTProcessor();
+      processor.importStylesheet(xslt.responseXML);   //no tocar
+
+      // Set the query parameter as an XSLT parameter
+      processor.setParameter(null, "categoria", paramValue); //ADAPTAR NOMBRES
+
+      // Transform the XML with XSLT
+      var result = processor.transformToDocument(xml.responseXML); //NO TOCAR
+
+      // Serialize the transformed result to a string
+      var transformedXmlString = new XMLSerializer().serializeToString(result); //NO TOCAR
+
+      // Display the transformed content in the HTML body
+      window.onload = function () {
+        var resultElement = document.getElementById("result");  //NO TOCAR
+        resultElement.innerHTML = transformedXmlString;
+
+
+
+        // RECUERDA AÑADIR ESTO <xsl:param name="categoria" select="'Default Title'" />
+      };
+    </script>
+  </head>
+  <body>
+    <div id="result"></div>
+  </body>
+</html>
